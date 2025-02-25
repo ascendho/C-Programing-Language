@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ch12",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "12_01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_01-Debug-453d05b1fc82226e73ea.json",
+					"name" : "12_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_02-Debug-85f13c8b42a58bdc1966.json",
+					"name" : "12_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_03-Debug-a04d1566158c863172da.json",
+					"name" : "12_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_04-Debug-8c10558ac337fb5047e4.json",
+					"name" : "12_04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_05-Debug-eac841088637ef4a3623.json",
+					"name" : "12_05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "12_06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_06-Debug-3e237ab9a5940e14a78c.json",
+					"name" : "12_06",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/data/ZJU_C/repo/Source/ch12/cmake-build-debug",
+		"source" : "D:/data/ZJU_C/repo/Source/ch12"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

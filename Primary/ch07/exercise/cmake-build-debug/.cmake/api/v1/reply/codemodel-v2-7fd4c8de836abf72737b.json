@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exercise",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-1-Debug-304bb72451eacd449aaf.json",
+					"name" : "7-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-2-Debug-314a045dcc2b6d6817a2.json",
+					"name" : "7-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-3-Debug-57bedf26a16e246509fb.json",
+					"name" : "7-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-4-Debug-7e4a3cc0a9040dd9e7ad.json",
+					"name" : "7-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-5-Debug-2c86a312ef938189dc82.json",
+					"name" : "7-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-6-Debug-59da0e94ba552ed3671c.json",
+					"name" : "7-6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-7-Debug-8cf159c7e1ff70a25ebe.json",
+					"name" : "7-7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7-8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7-8-Debug-95c00fbd6295f0250aba.json",
+					"name" : "7-8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/data/ZJU_C/repo/Primary/ch07/exercise/cmake-build-debug",
+		"source" : "D:/data/ZJU_C/repo/Primary/ch07/exercise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exercise",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-1-Debug-e8c0d87888fc69be2051.json",
+					"name" : "3-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-2-Debug-b8a82ca32693d1b6f531.json",
+					"name" : "3-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-3-Debug-7b52f596a580a779b23d.json",
+					"name" : "3-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-4-Debug-04c9d9b383d1afb3693b.json",
+					"name" : "3-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3-5-Debug-71c14820500a5d8d6877.json",
+					"name" : "3-5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/data/ZJU_C/repo/Primary/ch03/exercise/cmake-build-debug",
+		"source" : "D:/data/ZJU_C/repo/Primary/ch03/exercise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

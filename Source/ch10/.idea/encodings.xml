@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/10_01.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_02.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_03.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_04_1.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_04_2.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_04_3.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_05.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_06.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_07.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_08.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_09.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_10 V4 (学生信息库系统)/computing.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_10 V4 (学生信息库系统)/input_output.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_10 V4 (学生信息库系统)/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_10 V4 (学生信息库系统)/search.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_10 V4 (学生信息库系统)/update.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_10/input_output.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10_10/update.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/length.h" charset="GBK" />
+  </component>
+</project>

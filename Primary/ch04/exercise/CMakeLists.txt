@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.25)
+project(exercise C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(4-1 4-1.c)
+add_executable(4-2 4-2.c)
+add_executable(4-3 4-3.c)
+add_executable(4-4 4-4.c)
+add_executable(4-5 4-5.c)
+add_executable(4-6 4-6.c)
+add_executable(4-7 4-7.c)
+add_executable(4-8 4-8.c)
+add_executable(4-9 4-9.c)
+add_executable(4-10 4-10.c)
+add_executable(4-11 4-11.c)

@@ -1,0 +1,6 @@
+D:/data/ZJU_C/repo/Source/ch06/cmake-build-debug/CMakeFiles/6_01.dir
+D:/data/ZJU_C/repo/Source/ch06/cmake-build-debug/CMakeFiles/6_02.dir
+D:/data/ZJU_C/repo/Source/ch06/cmake-build-debug/CMakeFiles/6_03.dir
+D:/data/ZJU_C/repo/Source/ch06/cmake-build-debug/CMakeFiles/6_05.dir
+D:/data/ZJU_C/repo/Source/ch06/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/ZJU_C/repo/Source/ch06/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.25)
+project(ch08 C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(8_01 8_01.c)
+add_executable(8_02 8_02.c)
+add_executable(8_03 8_03.c)
+add_executable(8_04 8_04.c)
+add_executable(8_05 8_05.c)
+add_executable(8_06 8_06.c)
+add_executable(8_07 8_07.c)
+add_executable(8_08 8_08.c)
+add_executable(8_09_A 8_09_A.c)
+add_executable(8_09_B 8_09_B.c)
+add_executable(8_10 8_10.c)

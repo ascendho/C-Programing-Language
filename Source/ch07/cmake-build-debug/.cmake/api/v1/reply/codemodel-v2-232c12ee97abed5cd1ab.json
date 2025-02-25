@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ch07",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7_01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_01-Debug-e5f32dd0a9be586033d5.json",
+					"name" : "7_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_02-Debug-5fb6d8a30346eca33c86.json",
+					"name" : "7_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_03-Debug-e0a0e4be09a0aecd2dd0.json",
+					"name" : "7_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_04_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_04_1-Debug-fe0de6b4dc7fc2e429c7.json",
+					"name" : "7_04_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_04_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_04_2-Debug-5b9e85504c0460d81095.json",
+					"name" : "7_04_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_05-Debug-a6beafc5aab589035d59.json",
+					"name" : "7_05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_06-Debug-cadca3cba0926ed3f1b4.json",
+					"name" : "7_06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_07_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_07_1-Debug-e7c8dcd560bf54b2a645.json",
+					"name" : "7_07_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_07_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_07_2-Debug-dbd96cb13fb8d59bda2c.json",
+					"name" : "7_07_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_08::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_08-Debug-96033317b31d3a98c163.json",
+					"name" : "7_08",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_09::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_09-Debug-c2a984886bb51dac92ff.json",
+					"name" : "7_09",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_10-Debug-f17bce2566ac29a1799b.json",
+					"name" : "7_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_11-Debug-9af58d59d297e42a8a56.json",
+					"name" : "7_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_12-Debug-de2b6f6c5a1a68fc6a84.json",
+					"name" : "7_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_13-Debug-73b6e90b21504c6f1c03.json",
+					"name" : "7_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_14-Debug-3fd3a1b08b414d1bc88f.json",
+					"name" : "7_14",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/data/ZJU_C/repo/Source/ch07/cmake-build-debug",
+		"source" : "D:/data/ZJU_C/repo/Source/ch07"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

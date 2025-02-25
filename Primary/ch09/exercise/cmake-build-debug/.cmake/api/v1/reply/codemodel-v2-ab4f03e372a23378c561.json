@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exercise",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "9-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9-1-Debug-924c13ee5b0145219ef3.json",
+					"name" : "9-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9-2-Debug-d367dc9911a09b349d72.json",
+					"name" : "9-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9-3-Debug-ed84982fbe002d3e28bf.json",
+					"name" : "9-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9-4-Debug-28e9dd19b2b14101a5b4.json",
+					"name" : "9-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9-5-Debug-5fbde8e1897f7f34ea6f.json",
+					"name" : "9-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9-6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9-6-Debug-35a8c1b5b94641117504.json",
+					"name" : "9-6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/data/ZJU_C/repo/Primary/ch09/exercise/cmake-build-debug",
+		"source" : "D:/data/ZJU_C/repo/Primary/ch09/exercise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

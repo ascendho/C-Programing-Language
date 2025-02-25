@@ -1,0 +1,12 @@
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-1.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-2.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-3.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-4.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-5.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-6.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-7.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-8.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-9.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/8-10.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/data/ZJU_C/repo/Primary/ch08/exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
